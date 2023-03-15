@@ -2,5 +2,13 @@
   {
     "package": "covTestR",
     "oncran": true
+  },
+  {
+    "package": "likelihoodExplore",
+    "oncran": true
+  },
+  {
+    "package": "rWishart",
+    "oncran": true
   }
 ]
