@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "covTestR"]
 	path = covTestR
 	url = https://github.com/benbarnard/covtestr
-	shallow = true
-	registered = true
 [submodule "likelihoodExplore"]
 	path = likelihoodExplore
 	url = https://github.com/benbarnard/likelihoodexplore
-	shallow = true
-	registered = true
 [submodule "rWishart"]
 	path = rWishart
 	url = https://github.com/benbarnard/rwishart
-	shallow = true
-	registered = true
